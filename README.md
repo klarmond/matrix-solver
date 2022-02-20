@@ -30,3 +30,14 @@ The program features a "messages" box that informs the user of things such as:
 	
     - Prompts for the user to specify a stopping criteria if none was chosen.
     
+ Program interface:
+ ![Regular program look](https://i.gyazo.com/dab0490e5c41019cb10e7a136a52e6ee.png)
+ 
+ Generated output using the Gauss-Seidel Iterative Method:
+ ![gauss seidel](https://i.gyazo.com/c43c3a4794e74bf5909a921c31ae9921.png)
+ 
+ Bad input error checking example
+ ![abad input](https://i.gyazo.com/b1d4cb362cc49c36e1574e3e535e561c.png)
+ 
+ Check the uploaded PDF for more examples.
+    
